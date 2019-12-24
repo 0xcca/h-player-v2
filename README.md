@@ -10,14 +10,6 @@ h-player-v2 是基于 Quasar Framework 开发应用程序，通过 electron 包�
 + 支持分类浏览与搜索
 + 特色多窗口播放模式
 
-## 预览🔞
-
-<a target="_blank" href ="https://raw.githubusercontent.com/ZyqGitHub1/h-player-v2/master/screenshot/screenshot-list.png">🔞 首页截图</a>
-
-<a target="_blank" href ="https://raw.githubusercontent.com/ZyqGitHub1/h-player-v2/master/screenshot/screenshot-video.png">🔞 播放页截图</a>
-
-<a target="_blank" href ="https://raw.githubusercontent.com/ZyqGitHub1/h-player-v2/master/screenshot/screenshot-mini.png">🔞 多窗口播放截图</a>
-
 ## Get Started
 
 ```bash
@@ -54,6 +46,7 @@ See [Configuration Reference](https://quasar.dev/quasar-cli/quasar-conf-js).
 > ### Note
 >
 > 1. 视频源只需导入一次，可以在设置界面重新导入或清空视频源
+> 2. 如果下载示例视频源文件出现网络问题，请参考 [#14](https://github.com/ZyqGitHub1/h-player-v2/issues/14#issuecomment-517104860)
 
 ## TODO
 
